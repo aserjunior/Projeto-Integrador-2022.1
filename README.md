@@ -1,10 +1,10 @@
 # projeto-integrador-2022.1
 
-Repositorio criado para o projeto da disciplina Projeto Integrador
+Repositório criado para o projeto da disciplina Projeto Integrador I
 
 
 # Grupo
 
 * Aser Junior
-* Ebert Ian
+* Ébert Ian
 * Erick Amorim
