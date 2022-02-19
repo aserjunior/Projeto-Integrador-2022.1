@@ -8,3 +8,7 @@ Repositório criado para o projeto da disciplina Projeto Integrador I
 * Aser Junior
 * Ébert Ian
 * Erick Amorim
+
+# Landing Page
+
+https://aser-junior.herospark.co/p/projeto-site-covid
