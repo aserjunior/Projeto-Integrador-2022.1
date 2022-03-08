@@ -25,6 +25,6 @@ https://aser-junior.herospark.co/p/projeto-site-covid
 
 5 - Enviar Formulário de Problemas/Bugs
 
-6 - Avaliar Formuário de Problemas/Bugs
+6 - Avaliar Formulário de Problemas/Bugs
 
 7 - Se necessário, implementar Banco de Dados
