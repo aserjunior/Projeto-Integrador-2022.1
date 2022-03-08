@@ -17,10 +17,14 @@ https://aser-junior.herospark.co/p/projeto-site-covid
 
 1 - Escolher Estado
 
-2 - Exibir Dados
+2 - Integrar API para retornar os dados do input do usuário
 
-3 - Exibir Noticias
+3 - Exibir Dados (contaminação, mortes, vacinação)
 
-4 - Enviar Formulário de Problemas/Bugs
+4 - Exibir Noticias
 
-5 - Avaliar Formuário de Problemas/Bugs
+5 - Enviar Formulário de Problemas/Bugs
+
+6 - Avaliar Formuário de Problemas/Bugs
+
+7 - Se necessário, implementar Banco de Dados
