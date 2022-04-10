@@ -1,0 +1,9 @@
+"Card Name","Board Name","List Name","List ID","Members","Labels","Card Created Date","Due Date","Description","Checklist Items Total","Checklist Items Completed","Attachments","Votes"
+"Integração da API do brasil.io ao site","COVID MONITOR","Backlog","624f43a0cf70f5853549b5a5","","Função essencial - red","2022-04-07 17:09",,"",,,"",0
+"Integração da API do brasil.io ao Banco de Dados para Backup","COVID MONITOR","Backlog","624f43a0cf70f5853549b5a5","","CRUD - green","2022-04-07 17:11",,"",,,"",0
+"Modelar dashboard dos Dados e Notícias da Covid-19 Nacionais","COVID MONITOR","Backlog","624f43a0cf70f5853549b5a5","","Função essencial - red","2022-04-07 17:05",,"Com gráficos, contadores, grid das principais notícias e botões de compartilhamento (função acessória).",,,"",0
+"Desenvolver input para redirecionamento aos Dados e Notícias da Covid-19 Estaduais","COVID MONITOR","Backlog","624f43a0cf70f5853549b5a5","","Função essencial - red","2022-04-07 17:06",,"",,,"",0
+"Criar página com os Dados da Covid-19 Estaduais (se possível, adicionar municipais junto)","COVID MONITOR","Backlog","624f43a0cf70f5853549b5a5","","Função essencial - red","2022-04-07 17:06",,"Com gráficos, tabelas, contadores e botões de compartilhamento (função acessória).",,,"",0
+"Criar página com as Notícias da Covid-19 Estaduais","COVID MONITOR","Backlog","624f43a0cf70f5853549b5a5","","Função essencial - red","2022-04-07 17:08",,"Com botões de compartilhamento (função acessória).",,,"",0
+"Adicionar botões de compartilhamento na Dashboard e nas Páginas","COVID MONITOR","Backlog","624f43a0cf70f5853549b5a5","","Função acessória - yellow","2022-04-07 17:26",,"",,,"",0
+"Criar página para envio de formulário de bugs e/ou sugestões","COVID MONITOR","Backlog","624f43a0cf70f5853549b5a5","","Função acessória - yellow","2022-04-07 17:09",,"",,,"",0
