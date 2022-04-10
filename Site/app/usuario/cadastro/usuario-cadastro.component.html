@@ -1,0 +1,26 @@
+<form>
+    <div class="container-formulario">
+        <label>Nome</label>
+        <input type="text" name="nome" [(ngModel)]="usuario.nome">
+    
+    <div> 
+        <label>Email</label>
+        <input type="email" name="email" [(ngModel)]="usuario.email">
+    </div>
+    <div> 
+        <label>Assunto</label>
+        <input type="text" name="nome" [(ngModel)]="usuario.assunto">
+    </div>
+    <div> 
+        <label>Corpo do texto</label>
+        <input type="text" name="nome" [(ngModel)]="usuario.corpo">
+    </div>
+    <div>
+        <button (click)="enviar()">Enviar</button>
+    </div>
+   
+
+    
+    </div>
+     
+</form>
