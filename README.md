@@ -7,7 +7,6 @@ Repositório criado para o projeto da disciplina Projeto Integrador I
 
 * Aser Junior
 * Ébert Ian
-* Erick Amorim
 
 # Landing Page
 
